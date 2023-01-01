@@ -276,3 +276,10 @@
     transform: rotate(0deg);
   }
 }
+.title{
+  font-size:6rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: blue;
+  text-align: center;
+}
